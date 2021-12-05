@@ -1,0 +1,9 @@
+body{
+    font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+h1{
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
